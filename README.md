@@ -7,7 +7,7 @@ Esse projeto pode ser implementado em aplicações que utilizam Internet das Coi
 ## Equipe de desenvolvimento
 - [Lara Esquivel](github.com/laraesquivel)
 - [Diego Rocha](github.com/Diego10Rocha)
-- [Israel Braitt](github.com/israelbraitt)
+- <s>[Israel Braitt](github.com/israelbraitt)</s>
 
 ## Descrição do problema
 Foi implementado o protocolo de comunicação UART entre um Single Board Computer (SBC) Raspberry Pi Zero W e a plataforma de IoT NodeMCU. O sistema é comandado pelo SBC, sendo capaz de controlar o acionamento de um conjunto de sensores analógico/digitais conectados ao NodeMCU, assim como monitorar o seu funcionamento.
